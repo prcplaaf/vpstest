@@ -38,7 +38,10 @@
 chmod +x install.sh vps-test.sh
 sudo bash install.sh
 ```
-或者一键脚本：curl -fsSL https://raw.githubusercontent.com/<pecplaaf>/<vpstest>/main/install.sh | sudo bash
+或者一键脚本：
+```bash
+curl -fsSL https://raw.githubusercontent.com/pecplaaf/vpstest/main/install.sh | sudo bash
+```
 
 ### 2) 启动
 
